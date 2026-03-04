@@ -1,6 +1,6 @@
 <section class="title">
-  <div class="title-main">Lecture 01 – Introduction to NLP</div>
-  <div class="title-sub">NLP and LLMs (CS40008.01)</div>
+  <div class="title-main">Lecture 01 – Introduction to NLP & LLMs</div>
+  <div class="title-sub">CS40008.01</div>
   <div class="title-meta">
     <div>Baojian Zhou</div>
     <div>School of Data Science</div>
@@ -16,12 +16,12 @@
   <div class="ppt-title">About me</div>
   <div class="ppt-line"></div>
 
-  <p><b>Email:</b> bjzhou@fudan.edu.cn</p>
-  <p><b>Course Website:</b> <a href="https://baojian.github.io/llm-26/" target="_blank" rel="noopener">https://baojian.github.io/llm-26/</a></p>
-  <p><b>Course Github:</b> <a href="https://github.com/baojian/llm-26" target="_blank" rel="noopener">https://github.com/baojian/llm-26</a></p>
-  <p><b>Location:</b> South-401, Computing Center</p>
-  <p><b>Office hour:</b> Wed. 10:00am–11:30am</p>
-  <p><b>Research interests:</b> Machine learning on graphs, optimization, text mining (e.g., word embeddings), diffusion models, and in-context learning on LLMs.</p>
+  <p><b>Email: </b>bjzhou@fudan.edu.cn</p>
+  <p><b>Course Website: </b> <a href="https://baojian.github.io/llm-26/" target="_blank" rel="noopener">https://baojian.github.io/llm-26/</a></p>
+  <p><b>Course Github: </b> <a href="https://github.com/baojian/llm-26" target="_blank" rel="noopener">https://github.com/baojian/llm-26</a></p>
+  <p><b>Location: </b>Francis and Rose Yuen Campus C611</p>
+  <p><b>Office hour: </b>Wed. 10:00am–11:30am</p>
+  <p><b>Research interests: </b>Machine learning on graphs, optimization, text mining (e.g., word embeddings), diffusion models, and in-context learning on LLMs.</p>
 </section>
 
 ---
@@ -145,7 +145,7 @@
 ---
 
 <section class="ppt">
-  <div class="ppt-title">Tasks – Sentiment Analysis</div>
+  <div class="ppt-title">Task 1 – Sentiment Analysis</div>
   <div class="ppt-line"></div>
 
   <div class="twocol" style="--left: 40%;">
@@ -153,13 +153,13 @@
     <div class="sa-left">
       <div class="sa-hint">Click an example:</div>
       <button class="sa-ex" data-text="Nice and compact to carry!">
-        ✅ Nice and compact to carry!
+        Nice and compact to carry!
       </button>
       <button class="sa-ex" data-text="Since the camera is small and light, I won't need to carry around those heavy, bulky professional cameras either!">
-        ✅ Since the camera is small and light, I won't need to carry around those heavy, bulky professional cameras either!
+        Since the camera is small and light, I won't need to carry around those heavy, bulky professional cameras either!
       </button>
       <button class="sa-ex" data-text="The camera feels flimsy, is plastic and very light in weight you have to be very delicate in the handling of this camera.">
-        ❌ The camera feels flimsy, is plastic and very light in weight you have to be very delicate in the handling of this camera.
+        The camera feels flimsy, is plastic and very light in weight you have to be very delicate in the handling of this camera.
       </button>
     </div>
     <!-- RIGHT: ollama demo -->
@@ -176,7 +176,7 @@
 ---
 
 <section class="ppt">
-  <div class="ppt-title">Task – Machine Translation (ZH → EN)</div>
+  <div class="ppt-title">Task 2 – Machine Translation (ZH → EN)</div>
   <div class="ppt-line"></div>
 
   <div class="twocol" style="--left: 42%;">
@@ -204,7 +204,7 @@
 ---
 
 <section class="ppt">
-  <div class="ppt-title">Task – Article Generation</div>
+  <div class="ppt-title">Task 3 – Article Generation</div>
   <div class="ppt-line"></div>
 
   <div class="twocol" style="--left: 43%;">
@@ -257,7 +257,7 @@
 ---
 
 <section class="ppt">
-  <div class="ppt-title">Task – Image Understanding</div>
+  <div class="ppt-title">Task 4 – Image Understanding</div>
   <div class="ppt-line"></div>
 
   <div class="twocol" style="--left: 40%;">
@@ -295,7 +295,7 @@
 ---
 
 <section class="ppt">
-  <div class="ppt-title">Task – Text → Image (Stable Diffusion)</div>
+  <div class="ppt-title">Task 5 – Text → Image (Stable Diffusion)</div>
   <div class="ppt-line"></div>
   <iframe
     src="./sd-demo.html"
@@ -306,7 +306,7 @@
 ---
 
 <section class="ppt">
-  <div class="ppt-title">Task – Text → Video</div>
+  <div class="ppt-title">Task 6 – Text → Video</div>
   <div class="ppt-line"></div>
 
   <div class="twocol" style="--left: 49%; gap: 22px;">
